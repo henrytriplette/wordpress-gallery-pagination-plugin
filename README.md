@@ -1,0 +1,1 @@
+# wordpress-gallery-pagination-plugin
